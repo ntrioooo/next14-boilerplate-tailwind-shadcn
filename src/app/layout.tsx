@@ -9,8 +9,8 @@ const interFont = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "ntriodev",
-  description: "ntriodev personal website",
+  title: "Boilerplate",
+  description: "Boilerplate",
 };
 
 export default function RootLayout({
